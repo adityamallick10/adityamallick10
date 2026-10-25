@@ -1,3 +1,5 @@
+<img src="./github_portrait.jpg" alt="Aditya Mallick in a suit" width="205" align="right" />
+
 # Aditya Mallick
 ### Economics • International Banking & Finance • Financial Analytics
 
