@@ -27,6 +27,11 @@ An early-stage concept for a Bangladesh-focused alternative financial assessment
 
 *Concept in development; not a licensed credit bureau, lender or bank-endorsed scoring service.*
 
+### Featured project: The Invisible Borrower
+[Explore the interactive alternative credit assessment dashboard](./projects/invisible-borrower/index.html) · [Read the methodology](./projects/invisible-borrower/README.md)
+
+A synthetic-data research prototype examining financial resilience, income documentation and information asymmetry. **Educational only; not a validated lending model.**
+
 ### Economics and finance portfolio
 I'm building a portfolio of reproducible financial and economic analyses, including company research, macroeconomic indicators and data-driven dashboards. Projects and methods will be added here as they are completed.
 
